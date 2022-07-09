@@ -1,0 +1,50 @@
+ {[
+    {
+      heading: "learn how to design a home page",
+      id: 0,
+      author: "mohamed boukhanouf",
+      date: "2022-07-01",
+      detailes: {
+        paOne:
+          " Newbie UX designer here. Iam currently preparing a prototype for some user testing. How do you decide the acceptable limitations to the functionality of your prototypes? Obviously we want to get as close to the final experience as possible, but ultimately, this is a prototype and not a final, coded product",
+        paTow:
+          " I appreciate the specifics of the tool drive the answer to this next question, but do these broadly sound like sensible approaches, and how do you make calls on what is an acceptable compromise of functionality/how much you ask users to suspend disbelief in prototype testing?",
+      },
+    },
+    {
+      heading: "learn how to design a home page",
+      id: 1,
+      author: "mohamed boukhanouf",
+      date: "2022-07-01",
+      detailes: {
+        paOne:
+          " Newbie UX designer here. Iam currently preparing a prototype for some user testing. How do you decide the acceptable limitations to the functionality of your prototypes? Obviously we want to get as close to the final experience as possible, but ultimately, this is a prototype and not a final, coded product",
+        paTow:
+          " I appreciate the specifics of the tool drive the answer to this next question, but do these broadly sound like sensible approaches, and how do you make calls on what is an acceptable compromise of functionality/how much you ask users to suspend disbelief in prototype testing?",
+      },
+    },
+    {
+      heading: "learn how to design a home page",
+      id: 2,
+      author: "mohamed boukhanouf",
+      date: "2022-07-01",
+      detailes: {
+        paOne:
+          " Newbie UX designer here. Iam currently preparing a prototype for some user testing. How do you decide the acceptable limitations to the functionality of your prototypes? Obviously we want to get as close to the final experience as possible, but ultimately, this is a prototype and not a final, coded product",
+        paTow:
+          " I appreciate the specifics of the tool drive the answer to this next question, but do these broadly sound like sensible approaches, and how do you make calls on what is an acceptable compromise of functionality/how much you ask users to suspend disbelief in prototype testing?",
+      },
+    },
+    {
+      heading: "learn how to design a home page",
+      id: 3,
+      author: "mohamed boukhanouf",
+      date: "2022-07-01",
+      detailes: {
+        paOne:
+          " Newbie UX designer here. Iam currently preparing a prototype for some user testing. How do you decide the acceptable limitations to the functionality of your prototypes? Obviously we want to get as close to the final experience as possible, but ultimately, this is a prototype and not a final, coded product",
+        paTow:
+          " I appreciate the specifics of the tool drive the answer to this next question, but do these broadly sound like sensible approaches, and how do you make calls on what is an acceptable compromise of functionality/how much you ask users to suspend disbelief in prototype testing?",
+      },
+    },
+  ];}
