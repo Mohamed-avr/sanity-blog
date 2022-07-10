@@ -7,6 +7,7 @@ import SingalPost from "./Pages/SingalPost";
 import Error from "./Pages/Error";
 
 import { BrowserRouter, Routes, Route, Router, Link } from "react-router-dom";
+import Footer from "./Components/Footer";
 
 
 function App() {
@@ -23,8 +24,12 @@ function App() {
           <Route path="*" element={<Error />} />
         </Routes>
         {/* end  the content  */}
+      
       </div>
+      <Footer/>
     </BrowserRouter>
+
+
   );
 }
 

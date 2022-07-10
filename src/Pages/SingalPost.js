@@ -73,7 +73,7 @@ export default function OnePost() {
             />
           </div>
         </div>
-        <Link to={"/blog"}> العودة للمدونة </Link>
+        
       </div>
     );
   }

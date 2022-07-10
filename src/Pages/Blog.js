@@ -33,7 +33,7 @@ export default function Blog() {
     
     <>
       <Header/>
-      <section className="flex sm:justify-start  justify-center  items-start flex-row flex-wrap mt-10 px-3  ">
+      <section className="flex sm:justify-start  justify-center  items-start flex-row flex-wrap mt-24 px-3  ">
         {posts.map((post) => {
           return (
             <Link to={"/blog/" + post.slug.current} key={post.slug.current} className='hover:bg-gray-50 rounded-xl'>
